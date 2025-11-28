@@ -35,5 +35,5 @@ pip install -r requirements.txt
 ```
 
 ## Status
-🚧 Under active development for [Your Hackathon Name]
+🚧 Under active development 
 Authentication test: Wed Nov  5 17:05:33 EST 2025
